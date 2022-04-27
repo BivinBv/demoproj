@@ -1,2 +1,0 @@
-# demoproj
-hello hai
